@@ -1,0 +1,4 @@
+#!/bin/bash
+line="The Jack In The Box"
+firstletters=$( set -f; printf "%c " $line )
+
