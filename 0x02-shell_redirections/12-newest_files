@@ -1,3 +1,2 @@
-Task 12
 #!/bin/bash
 ls -1t | head
