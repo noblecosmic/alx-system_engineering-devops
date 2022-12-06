@@ -1,2 +1,3 @@
 #!/bin/bash
-tail -n 1 lacta >> lacta
+echo -en "" | tail --lines=1 iacta >> iacta
+
