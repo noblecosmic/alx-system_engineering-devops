@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filters project
+Display the content of the /etc/passwd file.
