@@ -1,4 +1,2 @@
 #!/bin/bash
-line="The Jack In The Box"
-firstletters=$( set -f; printf "%c " $line )
-
+printf '%s\n' "$(cut -c1 |tr -d [[:space:]])"
